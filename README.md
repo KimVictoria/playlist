@@ -8,7 +8,7 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 ## Day 1
 
 #### Planning
-- [ ] Complete the project planning document.
+- [x] Complete the project planning document.
 #### Set-Up
 - [x] Go to the repository
 - [x] Fork this repository to your github account and clone to a new workspace
@@ -32,32 +32,32 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 - [x] Create a working click handler that retrieves user input, pushes new items to your song arrays, and displays the result to the screen
 
 #### Wrap
-- [] Push your changes!
+- [x] Push your changes!
 
 ## Day 3
 
 ## JavaScript
 - [x] Comment out your code that refers to arrays
 - [x] Create Objects in your playlist project that hold all your song information
-- [] Combine all your Objects into one array
+- [x] Combine all your Objects into one array
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 4
 
 ## JavaScript
 
-- [ ] Update your .push() method based on your new array of Objects
-- [ ] Update your loop based on your new array of Objects
-- [ ] Finish refactoring your playlist project
+- [x] Update your .push() method based on your new array of Objects
+- [x] Update your loop based on your new array of Objects
+- [x] Finish refactoring your playlist project
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Project Extensions:
 - [ ] Add in your own CSS to personalize your project
-- [ ] Use .length to display how many songs are on your list
+- [x] Use .length to display how many songs are on your list
 - [ ] Add a delete button to delete songs on your list
 - [ ] Refactor your project further by utilizing functions to simplify your code
 - [ ] Add a shuffle button and functionality
